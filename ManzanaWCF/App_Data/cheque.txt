@@ -1,0 +1,1 @@
+{"ChequeId":0,"ChequeNumber":10,"Sum":10.0,"Discount":0.0,"Articles":["TestArticle","TestArticle1","TestArticle2"]}

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ManzanaWCF.Services.ChequeService, ManzanaWCF" CodeBehind="ChequeService.svc.cs" Factory="Autofac.Integration.Wcf.AutofacWebServiceHostFactory, Autofac.Integration.Wcf" %>
